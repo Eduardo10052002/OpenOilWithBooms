@@ -14,8 +14,10 @@ streamlit-folium
 pynucos
 trajan
 GDAL==3.4.3
-adios_db
+git+https://github.com/NOAA-ORR-ERD/adios_db.git
 git+https://github.com/OpenDrift/opendrift.git@master
+
+
 
 
 
