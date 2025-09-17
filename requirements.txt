@@ -5,13 +5,12 @@ matplotlib
 netCDF4
 scipy
 xarray
-rasterio
-cartopy
 folium
 streamlit-folium
 trajan
 pynucos
-opendrift==1.11.4
+
+
 
 
 
