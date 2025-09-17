@@ -5,16 +5,15 @@ matplotlib
 netCDF4
 scipy
 xarray
-pyproj
-shapely
 rasterio
 cartopy
 folium
 streamlit-folium
-pynucos
 trajan
+
+# Instala pynucos e opendrift do PyPI (repositório oficial)
+pynucos
 opendrift
-py_gnome @ git+https://github.com/NOAA-ORR-ERD/py_gnome.git
 
 
 
