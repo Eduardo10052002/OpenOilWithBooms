@@ -14,9 +14,10 @@ GDAL==3.4.3
 
 cartopy==0.21.1
 
-git+https://github.com/NOAA-ORR-ERD/adios_db.git
+adios-db
 
 git+https://github.com/OpenDrift/opendrift.git
+
 
 
 
