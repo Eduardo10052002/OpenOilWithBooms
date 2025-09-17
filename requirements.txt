@@ -10,10 +10,10 @@ cartopy
 folium
 streamlit-folium
 trajan
-
-# Instala pynucos e opendrift do PyPI (repositório oficial)
 pynucos
-opendrift
+gdal==3.2.2
+opendrift==1.11.4
+
 
 
 
