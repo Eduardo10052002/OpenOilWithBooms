@@ -11,6 +11,8 @@ trajan
 pynucos
 plotly
 reportlab
+opendrift
+
 
 
 
