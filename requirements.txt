@@ -14,5 +14,7 @@ GDAL==3.4.3
 
 cartopy==0.21.1
 
-opendrift==1.10.3
+git+https://github.com/OpenDrift/opendrift.git
+
+
 
