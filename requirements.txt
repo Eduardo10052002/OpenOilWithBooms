@@ -14,7 +14,8 @@ streamlit-folium
 pynucos
 trajan
 adios-db
-opendrift
+opendrif
+
 
 
 
