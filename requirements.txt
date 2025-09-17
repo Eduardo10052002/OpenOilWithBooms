@@ -13,8 +13,9 @@ folium
 streamlit-folium
 pynucos
 trajan
-adios-db
-opendrif
+opendrift
+py_gnome @ git+https://github.com/NOAA-ORR-ERD/py_gnome.git
+
 
 
 
