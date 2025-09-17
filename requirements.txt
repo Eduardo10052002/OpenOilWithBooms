@@ -11,7 +11,8 @@ folium
 streamlit-folium
 trajan
 pynucos
-opendrift==1.14.3
+opendrift
+
 
 
 
