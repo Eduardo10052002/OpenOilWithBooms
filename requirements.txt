@@ -9,6 +9,8 @@ folium
 streamlit-folium
 trajan
 pynucos
+plotly
+
 
 
 
