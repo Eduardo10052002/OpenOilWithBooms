@@ -1,17 +1,18 @@
-streamlit
-numpy
-pandas
-matplotlib
-netCDF4
-scipy
-xarray
-folium
-streamlit-folium
-trajan
-pynucos
-plotly
-reportlab
-opendrift
+streamlit==1.49.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+netCDF4==1.6.5
+scipy==1.13.1
+xarray==2024.11.0
+folium==0.19.0
+streamlit-folium==0.17.0
+trajan==0.7.0
+pynucos==3.4.1
+plotly==5.22.0
+reportlab==4.1.1
+opendrift==1.14.3
+
 
 
 
