@@ -11,7 +11,7 @@ trajan
 pynucos
 plotly
 reportlab
-opendrift==1.13.0
+git+https://github.com/OpenDrift/opendrift.git
 
 
 
