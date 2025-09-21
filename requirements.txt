@@ -11,8 +11,8 @@ trajan==0.7.0
 pynucos==3.4.1
 plotly==5.22.0
 reportlab==4.1.0
-git+https://github.com/OpenDrift/adios-db.git@main
-opendrift==1.14.3
+opendrift==1.14.0
+
 
 
 
