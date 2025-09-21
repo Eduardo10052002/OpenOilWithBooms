@@ -10,8 +10,9 @@ streamlit-folium==0.17.0
 trajan==0.7.0
 pynucos==3.4.1
 plotly==5.22.0
-reportlab==4.1.1
+reportlab==4.1.0
 opendrift==1.14.3
+
 
 
 
