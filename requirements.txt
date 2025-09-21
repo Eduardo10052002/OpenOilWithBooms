@@ -11,8 +11,7 @@ trajan
 pynucos
 plotly
 reportlab
-opendrift==1.14.0
-gdal==3.2.2
+opendrift==1.11.10
 
 
 
